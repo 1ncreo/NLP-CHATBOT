@@ -1,0 +1,24 @@
+// AIMS: results, course registrations, --- http://203.129.246.3:9090/aims/
+// clubs contacts - ((specific clubs) -> (social media))
+// admission dates (first y)
+// curr 
+// scholarships/loans
+// holidays/ timetable
+// about
+// social media
+// JEE - (opening closing)
+// Campus
+// Faculty
+// Placement
+// Visitors -> App redirect + Information
+// Sports, extra c, facilities (gym, food places nearby)
+// Research, foreign internship
+// Sex ratio 
+// Seat Matrix
+// climate, weather , season ->  "The temperatures are highest on average in April, at around 27.8 °C | 82.0 °F. In December, the average temperature is 22.5 °C | 72.5 °F. It is the lowest average temperature of the whole year."
+//https://en.climate-data.org/asia/india/karnataka/dharwad-24180/
+// Jobs
+// Tenders
+// Travel places nearby
+
+// Tinku edge cases:  19bcs118@iiitdwd.ac.in

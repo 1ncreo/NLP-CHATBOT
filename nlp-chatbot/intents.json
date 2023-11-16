@@ -1,0 +1,127 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "What courses do you offer?",
+        "What streams are taught at IIIT Dharwad?",
+        "What streams are availabe?",
+        "What kinds of subjects are taught in this college?",
+        "Do you guys teach DSAI?",
+        "Is ML or AI taught in IIIT Dharwad?",
+        "What are the B.Tech programmes availabe at IIIT Dharwad?"
+      ],
+      "responses": [
+        "We at IIIT Dharwad offer B.Tech programs in CSE, ECE and DSAI and PhD programs in CSE and ECE",
+        "IIIT Dharwad has B.Tech CSE, ECE and DSAI curriculums and PhD programs in CSE and ECE"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept UPI?",
+        "Do you accept checks?",
+        "Are you cash only?",
+        "How to pay semister fees?",
+        "How to pay admission fees?",
+        "How to pay mess registration fees?",
+        "Institiue fee payment portal",
+        "IIIT Dharwad fee payment",
+        "How to pay fees?",
+        "Pay IIIT Dharwad fees"
+      ],
+      "responses": [
+        "We accept Online Banking/Debit Cards/Credit Cards. Any issues regarding the fee payment contact@7026609000/ 9380019199/ 9538378392/ 9886090988"
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "Contact details of faculty",
+        "How do I contact IIIT Dharwad?",
+        "Phone number of Registrar",
+        "Contact Director of IIIT Dharwad",
+        "How to contact HoD of CSE branch",
+        "Contact admin",
+        "Contact details of incharge",
+        "Email id of Admin or incharge",
+        "Can't find answers, how do I contact the Institute?",
+        "Emergency contact details"
+      ],
+      "responses": [
+        "Contact Email: contact@iiitdwd.ac.in , Contact Number: 0836 2250879/ 0836 2357747",
+        "Please reach out to us at contact@iiitdwd.ac.in or Ph: 0836 2250879/ 0836 2357747"
+      ]
+    },
+    {
+      "tag": "placements",
+      "patterns": [
+        "What are the placement statistics at IIIT Dharwad?",
+        "How are placements at IIIT Dharwad?",
+        "B.Tech CSE placement statistics",
+        "B.Tech ECE placement statistics",
+        "What companies come for placements at IIIT Dharwad?",
+        "B.Tech DSAI placement statistics",
+        "Placement percentage of IIIT Dharwad",
+        "Highest placement at IIIT Dharwad",
+        "Product based companies at IIIT Dharwad",
+        "How many students got internships at IIIT Dharwad?",
+        "Internship statistics"
+      ],
+      "responses": [
+        "Thank you for your interest regarding placements @ IIIT Dharwad. Please visit https://iiitdwd.ac.in/careerGuidance.php for detailed stats.",
+        "Check out our CGC Portal (https://iiitdwd.ac.in/careerGuidance.php) for detailed information regarding placements at IIIT Dharwad."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Address of IIIT Dharwad",
+        "Where is the permanent campus of IIIT Dharwad located?",
+        "How much time does it take to reach the campus from Hubli airport?",
+        "How much time does it take to reach the campus from Hubli Station?",
+        "Hubli to Dharwad",
+        "How to reach IIIT Dharwad?",
+        "Bangalore to IIIT Dharwad travel guide",
+        "Where is IIIT Dharwad located?",
+        "Is IIIT Dharwad in Karnataka?"
+      ],
+      "responses": [
+        "Our address is : IIIT Campus, Ittigatti Road, Near Sattur Colony, Dharwad 580009.",
+        "IIIT Campus is located at Ittigatti Road, Near Sattur Colony, Dharwad 580009."
+      ]
+    }
+  ]
+}
